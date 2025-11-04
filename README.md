@@ -1,6 +1,6 @@
 # calculator
 A Calculator Activities 3 Task
-Sample of Code:
+<h3>Sample of Code:</h3>
 ![Sample](Example.png)
 
 
