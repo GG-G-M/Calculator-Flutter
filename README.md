@@ -1,6 +1,8 @@
 # calculator
+A Calculator Activities 3 Task
+Sample of Code:
+![Sample](Example.png)
 
-A new Flutter project.
 
 ## Getting Started
 
